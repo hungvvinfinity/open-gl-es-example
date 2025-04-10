@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoLiveWallpaper</string>
+    <string name="wallpaper_description">Một live wallpaper đơn giản với hiệu ứng gợn sóng khi chạm.</string>
+    <string name="wallpaper_label">OpenGL Ripple Wallpaper</string>
+</resources>
