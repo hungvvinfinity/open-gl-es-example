@@ -2,7 +2,7 @@
 
 Project này minh họa cách triển khai một Live Wallpaper Android sử dụng OpenGL ES 2.0 cho việc rendering đồ họa tùy chỉnh (ảnh nền texture) và hiệu ứng tương tác (gợn sóng khi chạm). Tài liệu này tập trung vào các khía cạnh kỹ thuật và luồng hoạt động dành cho các nhà phát triển Android.
 
-![Demo Video](demo.mp4)
+[Watch the Demo Video](demo.mp4)
 
 ## Tổng quan Kiến trúc
 
